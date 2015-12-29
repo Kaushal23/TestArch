@@ -2,4 +2,8 @@ Modification from T1
 
 Modification from T2
 
+<<<<<<< HEAD
 Parallel modification from T1
+=======
+Parallel modification from T2
+>>>>>>> 700f514a8843736178c3a7007824e9ee5cb15603
